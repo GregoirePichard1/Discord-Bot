@@ -52,5 +52,5 @@ async def on_message(message):
             await message.reply("Salut tout seul", mention_author=True)
 
 
-token = "MTAyMjE5MzY0MjMwNTI0MTA4OA.G-HCoX.evVXzdpWI_HhMnWPObFDaRg5mYm0e4nKxjBe5U"
+token = ""
 bot.run(token)  # Starts the bot
